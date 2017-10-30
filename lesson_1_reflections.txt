@@ -1,11 +1,12 @@
-1. The difference between 2 versions helped because it helped me tell 
-the difference between them and see what the error was in the newer 
-one. 
+Josiah Guzman-Mariscal
+1. The difference between 2 versions helped because it helped me tell
+the difference between them and see what the error was in the newer
+one.
 2. Having the full history of my old one can tell me where I went wrong
 and how I made a crucial mistake at one point.
 3. Having manual commits allows you to go back to a point where you've
-specifically selected for yourself to view in the future. It's more 
+specifically selected for yourself to view in the future. It's more
 clear cut than if auto saves were to dictate your revisions.
 4. cuz its important
-5. having old states makes you feel safer when you make bold tweaks 
+5. having old states makes you feel safer when you make bold tweaks
 that could be game breaking.
