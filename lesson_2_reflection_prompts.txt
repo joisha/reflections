@@ -29,5 +29,9 @@ forget where each branch is and which commit it ended off on.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging 2 branches allows for a new final branch to be created so that every
+good thing added is in the same file. The diagram allows us to visualize
+how exactly these were merged and which commits are accessible through each.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
