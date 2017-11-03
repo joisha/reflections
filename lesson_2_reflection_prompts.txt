@@ -23,7 +23,7 @@ so it allows for different versions of the game to exist at the same time.
 
 How do the diagrams help you visualize the branch structure?
 
-The diagrams allow for us to see where each branch broke off so that we dont
+The diagrams allow for us to see where each branch broke off so that we don't
 forget where each branch is and which commit it ended off on.
 
 What is the result of merging two branches together? Why do we represent it in
@@ -35,3 +35,7 @@ how exactly these were merged and which commits are accessible through each.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Git's auto merging sometimes creates conflicts or makes changes that wasn't
+wanted because collaborators were planning on merging code manually. It creates
+some issues that would be a lot easier to resolve with manual merges.
