@@ -8,7 +8,10 @@ new commits to the repo.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+  Pulling changes manually is better because if someone added something that
+  was either fatal or unfinished, it would have messed with your own remote
+  file that you had. having manual ones helps you choose what exactly you want
+  in your remote repo.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
