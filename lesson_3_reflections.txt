@@ -26,7 +26,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Having a copy of the last known state gives you the previous data of what
+    was in there before you made changes to it locally. It gives a last known
+    online version of it so that you can go back just in case something
+    goes wrong.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
