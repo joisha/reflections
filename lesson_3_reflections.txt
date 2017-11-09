@@ -34,7 +34,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    It would be harder, but it would have to be in person. Pair programming
+    would be a great way to collaborate since 2 people are working on the same
+    code. It isn't tedious or counter intuitive since only one person is
+    actually programming while the other is spotting and can see immediately
+    if there is an error. It would be easier in the sense to collaborate
+    together, since they are working on one thing. In Git it's a bit harder
+    since code needs to be constantly merged together which takes negotiation.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
